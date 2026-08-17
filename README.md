@@ -6,21 +6,28 @@ A home assistant, similar to alexa but local!
 
 Here's the workflow:
 
+<p>
+ESP32<br>
+⬇️<br>
+Server<br>
+⬇️<br>
+OpenWakeWord (wakeword)<br>
+⬇️<br>
+Faster-whisper (STT)<br>
+⬇️<br>
+My desktop (for the GPU)<br>
+⬇️<br>
+Ollama<br>
+⬇️<br>
+Back to server<br>
+⬇️<br>
+Piper (TTS)<br>
+⬇️<br>
+Back to ESP32<br>
+  <br><br><br>
+</p>
 
-ESP32
-⬇️
-Server
-⬇️
-OpenWakeWord (wakeword)
-⬇️
-Faster-whisper (STT)
-⬇️
-My desktop (for the GPU)
-⬇️
-Ollama
-⬇️
-Back to server
-⬇️
-Piper (TTS)
-⬇️
-Back to ESP32
+Here's the link to the CAD:  
+  https://cad.onshape.com/documents/3b531fa6d3b48e1133fff80f/w/1dff5b39a6036095855b317d/e/03ff1a39b6a9a2e8eaf5ee01
+
+I hope that ive put enough here.. idk what else to write.
