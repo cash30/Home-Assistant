@@ -27,6 +27,14 @@ Back to ESP32<br>
   <br><br><br>
 </p>
 
+Here's a list of parts:
+  1x ESP32-S3 ReSpeaker-lite - 30.99 https://www.seeedstudio.com/ReSpeaker-Lite-Voice-Assistant-Kit-p-5929.html
+  1x USBC Charger - 12.99 https://www.seeedstudio.com/27W-USB-C-PD-Power-Supply-Black-US-Version-p-5812.html
+  1x 3D printed shell
+    Total: 43.98
+
+
+
 Here's the link to the CAD:  
   https://cad.onshape.com/documents/3b531fa6d3b48e1133fff80f/w/1dff5b39a6036095855b317d/e/03ff1a39b6a9a2e8eaf5ee01
 
